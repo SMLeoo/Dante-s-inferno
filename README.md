@@ -32,3 +32,5 @@ La jugabilidad toma inspiración de títulos como **The Binding of Isaac**, inco
 * Escritorio
 
 ## Enlace a la Wiki del Projecto:
+
+https://github.com/SMLeoo/Dante-s-inferno/wiki/El-Infierno-de-Dante-%E2%80%94-Propuesta-del-Proyecto
